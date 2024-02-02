@@ -1,5 +1,27 @@
-- <h1>center page©️18BusSTrapz<h1/>
-- 
-leannemay/leannemay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📂 MyGameRepository
+  |
+  ├── 📄 README.md
+  |
+  ├── 📂 docs
+  |     ├── 📄 user-guide.md
+  |     └── 📄 developer-guide.md
+  |
+  ├── 📂 assets
+  |     ├── 🖼️ images
+  |     └── 🔊 sounds
+  |
+  ├── 📂 scripts
+  |     ├── 📄 main_script.py
+  |     └── 📄 game_logic.py
+  |
+  ├── 📂 scenes
+  |     ├── 📄 level_1_scene.py
+  |     └── 📄 level_2_scene.py
+  |
+  ├── 📄 LICENSE
+  |
+  ├── 📄 .gitignore
+  |
+  └── 📂 .github
+        ├── 📄 ISSUE_TEMPLATE.md
+        └── 📄 PULL_REQUEST_TEMPLATE.md
