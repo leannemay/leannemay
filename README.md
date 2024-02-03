@@ -59,8 +59,12 @@ Welcome to the Cigar Rap Battle Adventure Game! Immerse yourself in the world of
    - *Earn by:* Selecting popular beats for your rap battles.
    - *Bonus Earnings:* Unlocking exclusive beats by achieving high scores in rap battles or completing specific challenges.
 
-## NFT Cigar Art
+## Collectible NFT Cigar Art and Icon
 
-- **Collectible NFTs:** Demonstrate long-lasting loyalty and attention to the game to earn exclusive cigar art NFTs. These limited edition digital assets serve as a symbol of your dedication to the Cigar Rap Battle Adventure Game community.
+- **Evolve Your Icon:** Every move you make is logged as an NFT, evolving your in-game icon over time. Witness your icon's transformation based on your actions, showcasing your unique journey in the Cigar Rap Battle Adventure Game.
+
+## Community Chat
+
+Join our community chat to discuss the game, share strategies, and connect with fellow players. [Link to Chat Room]
 
 Feel free to customize this template further, and let me know if there are specific details you'd like to highlight or modify!
