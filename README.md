@@ -4,8 +4,8 @@ Welcome to ©️18BusStrapz Real LifeAdventure Game! Embark on an exciting journ
 
 ## How to Play
 
-1. Clone this repository to your local machine.
-2. Navigate to the `scripts` folder and run `main_game.py` to start the game.
+1. 
+
 
 ## Folder Structure
 
