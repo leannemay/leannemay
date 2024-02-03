@@ -90,5 +90,7 @@ Welcome to the Cigar Rap Battle Adventure Game! Immerse yourself in the world of
 ## Community Chat
 
 Join our community chat to discuss the game, share strategies, and connect with fellow players. [Link to Chat Room]
-
+git clone https://github.com/your-username/Cigar-Rap-Battle-Adventure-Game.git
 Feel free to customize this template further, and let me know if there are specific details you'd like to highlight
+
+
