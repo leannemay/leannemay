@@ -63,8 +63,32 @@ Welcome to the Cigar Rap Battle Adventure Game! Immerse yourself in the world of
 
 - **Evolve Your Icon:** Every move you make is logged as an NFT, evolving your in-game icon over time. Witness your icon's transformation based on your actions, showcasing your unique journey in the Cigar Rap Battle Adventure Game.
 
+## Outlet and Lifestyle Management
+
+- **Own Outlets:** Expand your empire by acquiring outlets. Earn additional income and unique assets like jewels, cars, and **building scraps**.
+
+- **Lifestyle Management:** Take care of your character's well-being. Monitor and improve their physical health through activities like feeding, exercising, and mental health care. Make appointments for doctors and ensure a balanced and fulfilling lifestyle.
+
+## Daily Routine and Work
+
+- **Work Opportunities:** Explore various job opportunities to earn additional income.
+- **Daily Routine:** Manage your character's daily routine, including work, leisure, and social activities.
+- **Time Management:** Balance your time effectively to maximize earnings, health, and personal development.
+
+## Lessons and Skills
+
+- **Crypto Lessons:** Learn the basics of cryptocurrency and explore opportunities to invest and grow your wealth.
+
+- **Driving Lessons:** Enhance your driving skills and unlock new areas of the city for exploration.
+
+- **Swimming Lessons:** Dive into the world of swimming. Improve your skills and discover hidden aquatic challenges.
+
+## Scraps for Building
+
+- **Construction Resources:** **Scraps** are crucial resources for building houses, castles, empires, islands, and more. Collect and wisely use scraps to construct diverse structures, shaping your virtual world in the Cigar Rap Battle Adventure Game.
+
 ## Community Chat
 
 Join our community chat to discuss the game, share strategies, and connect with fellow players. [Link to Chat Room]
 
-Feel free to customize this template further, and let me know if there are specific details you'd like to highlight or modify!
+Feel free to customize this template further, and let me know if there are specific details you'd like to highlight
