@@ -1,6 +1,6 @@
-# City Adventure Game
+# ©️18BusStrapz
 
-Welcome to the City Adventure Game! Embark on an exciting journey through a bustling city filled with surprises and challenges.
+Welcome to ©️18BusStrapz Real LifeAdventure Game! Embark on an exciting journey through a bustling city filled with surprises and challenges.
 
 ## How to Play
 
