@@ -1,7 +1,7 @@
 # 18BluntWrap Battle 
 
 Welcome to the BluntWrapz Battle game ! Immerse yourself in the  HIGH LIFE the world of Blunts and fierce wrap battles. Manage your Blunt shop, explore different parts of Manchester will you make it out or not?, can you prove your lyrical talent in epic wrap battles, LETS GO CHAMP!
-
+ 
 ## How to Play
 
 1. Clone this repository to your local machine.
@@ -91,5 +91,7 @@ Welcome to the BluntWrapz Battle game ! Immerse yourself in the  HIGH LIFE the w
 ## Community Chat
 
 Join our community chat to discuss the game, share strategies, and connect with fellow players. [Link to Chat Room]
-BluntWrapz.git
+BluntWrapz.git 
+
+
 
