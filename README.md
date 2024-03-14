@@ -93,5 +93,3 @@ Welcome to the BluntWrapz Battle game ! Immerse yourself in the  HIGH LIFE the w
 Join our community chat to discuss the game, share strategies, and connect with fellow players. [Link to Chat Room]
 BluntWrapz.git
 
-
-#game
