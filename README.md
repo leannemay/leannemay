@@ -25,6 +25,7 @@ Welcome to the BluntWrapz Battle! Immerse yourself in the  HIGH LIFE the world o
 ### Exploration
 - **Manchester Districts:** Explore distinct districts, each with its own culture, challenges, and BluntWrapz scene. From the historic Northern Quarter to the lively Deansgate, uncover the unique vibes of each Manchester neighborhood, including Middleton (M24).
   - **Middleton (M24):** Venture into the heart of Middleton, a district known for its rich history and diverse community. Discover local BluntWrapz enthusiasts, face unique BluntWrapz challenges, and find hidden gems that contribute to your journey in the BluntWrapz Battle.
+- **All Popular Landmarks along the 18 bus route
 
 ### Soundtrack
 - **Dynamic Beats:** Enjoy a diverse soundtrack featuring MEEKZ, Potter Payper and other uk  BluntWrapz beats for your battles.
@@ -92,6 +93,3 @@ Welcome to the BluntWrapz Battle! Immerse yourself in the  HIGH LIFE the world o
 
 Join our community chat to discuss the game, share strategies, and connect with fellow players. [Link to Chat Room]
 BluntWrapz.git
-
-
-#game
